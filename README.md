@@ -6,7 +6,7 @@ This project classifies customer queries into different intents using Machine Le
 
 Click below to open in Google Colab:
 
-https://colab.research.google.com/github/YOUR-USERNAME/customer-intent-classifier/blob/main/Intent_Detection.ipynb
+https://colab.research.google.com/github/Pavani-005/customer-intent-classifier/blob/main/Intent_Detection.ipynb
 
 ## 📊 Features
 - Intent classification using ML
