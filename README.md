@@ -111,7 +111,7 @@ View model predictions, outputs, and visualizations.
 
 # ▶️ Open in Google Colab
 
-https://colab.research.google.com/github/Pavani-005/customer-intent-classifier/blob/main/Intent_Detection.ipynb
+https://colab.research.google.com/github/Pavani-005/customer-intent-classifier/blob/main/Intent_Detection(2).ipynb
 
 ---
 
